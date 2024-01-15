@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PPApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E3B36BC028C7D602B93AEC0E6B0414EE286AA282</string>
+				<key>dateExpires</key>
+				<string>2024/11/27</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E3B36BC028C7D602B93AEC0E6B0414EE286AA282</string>
+						<key>dateExpires</key>
+						<string>2024/11/27</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>DKF64HG389</string>
+						<key>name</key>
+						<string>Fishcake Inc.</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>DKF64HG389.com.ppapp.ppapp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>DKF64HG389</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>PPApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>be37ac7a-4bc9-44cc-ae48-3c6fa6d041db</string>
+				<key>dateExpires</key>
+				<string>2024/12/5</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.ppapp.ppapp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>DKF64HG389</string>
+				<key>name</key>
+				<string>Fishcake Inc.</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
